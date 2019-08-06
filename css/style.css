@@ -490,7 +490,8 @@ Parallax
 ============================= */
 
 #separator {	
-	background-image: url(../img/parallax-bg.jpg);
+    /* background-image: url(../img/parallax-bg.jpg); */
+    background-color: #576e77;
 }
 
 #separator .icon {
