@@ -254,7 +254,7 @@ hr {
 ============================ */
 
 .home-section {
-    padding-top: 75px;
+    padding-top: 40px;
     padding-bottom: 110px;
 	display:block;
     position:relative;
@@ -681,4 +681,19 @@ a.btn:hover {
 		font-size: 20px;
 	}
 	
+}
+
+/* CUSTOM */
+
+.about-image {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%; 
+    height: auto;
+}
+
+#name {
+    color: #d43076;
+    font-size: 60px;
+    font-family: Lobster Two;
 }
