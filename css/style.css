@@ -514,6 +514,10 @@ Parallax
 	z-index: -1;
 }
 
+.separator-icons {
+    padding-bottom: 40px !important;
+}
+
 /* ===========================
 --- Elements
 ============================ */
