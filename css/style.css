@@ -664,7 +664,16 @@ a.btn:hover {
 	
 	.col-xs-6 {
 		margin-bottom: 30px;
-	}
+    }
+    
+    .section-heading {
+        margin-bottom: 50px;
+        margin-top: 60px;
+    }
+
+    #navigation {
+        padding-bottom: 10px;
+    }
 }
 
 @media (max-width:480px) {
@@ -683,7 +692,12 @@ a.btn:hover {
 		height: 40px;
 		margin-top: 10px;
 		font-size: 20px;
-	}
+    }
+    
+    .section-heading {
+        margin-bottom: 50px;
+        margin-top: 60px;
+    }
 	
 }
 
